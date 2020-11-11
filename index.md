@@ -15,8 +15,9 @@ Below you can see the donation receipt.
 
 ![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/monetary-donation.jpg)
 
-## Calculation
+## Calculation of the donation amount
 
+Here we aim to explain how the donation amount is calculated.
 x paticipants took part in the experiment. 
 On average the participants solved y sliders in task 1, which resulted in a donation of ... €. 
 z participants donated money to the offsetting chartiy in task 2, which leads to an additional donation of ... €
