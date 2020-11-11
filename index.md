@@ -9,5 +9,3 @@ Below you can see the donation receipt.
 ## Calculation
 
 
-
-[Link](url) and ![Image](src)
