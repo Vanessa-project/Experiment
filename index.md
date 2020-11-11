@@ -14,4 +14,9 @@ Below you can see the donation receipt.
 
 ## Calculation
 
+x paticipants took part in the experiment. 
+On average the participants solved y sliders in task 1, which resulted in a donation of ... €. 
+z participants donated money to the offsetting chartiy in task 2, which leads to an additional donation of ... €
+Therefore we as the experimenter donated ... € to atmosfair, which you can also see in the donation receipt above.
+
 
