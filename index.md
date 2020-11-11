@@ -6,7 +6,7 @@ Thank you for participating in the study.
 
 Below you can see the donation receipt.
 
-![](image.png)
+![](monetary-donation.png)
 
 ## Calculation
 
