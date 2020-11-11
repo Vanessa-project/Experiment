@@ -2,9 +2,8 @@
 ## Thank you 
 
 Thank you for participating in the study by Lars Schlereth and Vanessa Schoeller from the University of Regensburg.
-
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<img src="https://github.com/Vanessa-project/Experiment/blob/gh-pages/UniLogo.gif" width="100" height="100">
+
 
 
 
