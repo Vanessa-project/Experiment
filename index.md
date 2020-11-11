@@ -7,6 +7,7 @@ Thank you for participating in the study by Lars Schlereth and Vanessa Schoeller
 <img src="https://github.com/Vanessa-project/Experiment/blob/gh-pages/logo_regensburg.png" width="200">
 
 
+![](https://github.com/Vanessa-project/Experiment/blob/gh-pages/logo_regensburg.png)
 
 
 ## Donation receipt
