@@ -6,7 +6,7 @@ Thank you for participating in the study.
 
 Below you can see the donation receipt.
 
-![](monetary-donation.png)
+![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/monetary-donation.jpg)
 
 ## Calculation
 
