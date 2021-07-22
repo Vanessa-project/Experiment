@@ -24,7 +24,7 @@ Below you can see the donation receipt from <a target="_blank" rel="noopener nor
 ## Calculation of the donation amount
  <ul>
   <li>1019 participants took part in the study.</li>
-   <li>In sum, we donated 704€ (£603,46) to atmosfair, which leads to an offset of 30.614 tons of carbon dioxide. </li>
+   <li>In sum, we donated 704€ (£603,46) to atmosfair, which results in an offset of 30.614 tons of carbon dioxide. </li>
 </ul> 
 
   
