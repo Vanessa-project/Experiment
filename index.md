@@ -5,11 +5,11 @@
 <br>
 <br>
 
-# Verify the donation to Compensators* from the Prolific study "Study on decision making"
+# Verify the donation to atmosfair from the Prolific study "Study on decision-making"
 
 
-Thank you for participating in the study by Clara Ulmer from Ulm University and Vanessa Schoeller from the University of Regensburg. 
-With your participation in this study, you support our research on the effectiveness of different types of information on carbon emissions, for example as carbon labels on products.
+Thank you for participating in the study by Lars Schlereth and Vanessa Schoeller from the University of Regensburg. 
+With your participation in this study, you support our research on pro-enviornmental decision making.
 
 On this page you find information about the total amount of carbon emissions that was eliminated by this study, as well as a donation receipt.
 
@@ -23,20 +23,10 @@ Below you can see the donation receipt from <a target="_blank" rel="noopener nor
 
 ## Calculation of the donation amount
  <ul>
-  <li>600 participants took part in the study.</li>
-  <li>402 individuals decided not to buy the product.</li>
-  <li>For every participant that had decided not to buy the product, we reduced CO2 emissions by about 30.80 kg by donating £1.20/1.40€ to Compensators*.</li>
-    <li>In total, participants' decisions resulted in a reduction in CO2 emissions by 12.38 tons as you can verify with the donation receipt above.</li>
-      <li>In sum, we donated 562.80 € to Compensators*. </li>
+  <li>1019 participants took part in the study.</li>
+   <li>In sum, we donated 704€ (£603,46) to atmosfair which leads to an offset of 30.614 tons of carbon dioxide. </li>
 </ul> 
 
   
 If you have further questions, please contact us via Prolific.
-
-
-
-On average the participants solved y sliders in task 1, which resulted in a donation of ... €. 
-z participants donated money to the offsetting chartiy in task 2, which leads to an additional donation of ... €
-Therefore we as the experimenter donated ... € to atmosfair, which you can also see in the donation receipt above.
-
 
