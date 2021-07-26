@@ -8,9 +8,9 @@
 
 
 Thank you for participating in the study by Lars Schlereth and Vanessa Schoeller from the University of Regensburg. 
-With your participation in this study, you support our research on pro-environmental decision-making.
+With your participation in this study, you support our research on environmental decision-making.
 
-On this page, you find information about the total amount of carbon emissions that was eliminated by this study, as well as a donation receipt.
+On this page, you find information on the total amount of carbon emissions that was eliminated in the course of this study, as well as a donation receipt.
 
 
 ## Donation receipt
