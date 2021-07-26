@@ -18,8 +18,7 @@ On this page, you find information about the total amount of carbon emissions th
 
 Below you can see the donation receipt from <a target="_blank" rel="noopener noreferrer" href="https://www.atmosfair.de/en/">atmosfair</a>.
 
-![](https://github.com/Vanessa-project/Study/raw/gh-pages/Atmosfair_certificate.jpg)
-<img align="right"  height="58" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/Atmosfair_certificate.jpg">
+<img src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/Atmosfair_certificate.jpg">
 
 
 ## Calculation of the donation amount
