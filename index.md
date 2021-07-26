@@ -4,7 +4,7 @@
 <br>
 <br>
 
-# Verify the donation to atmosfair from the Prolific study "Study on decision-making"
+# Verify the donation to atmosfair from "Study on decision-making" on Prolific
 
 
 Thank you for participating in the study by Lars Schlereth and Vanessa Schoeller from the University of Regensburg. 
