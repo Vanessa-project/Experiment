@@ -1,4 +1,4 @@
-<img align="right"  height="65" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg">
+<img align="right"  height="75" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg">
 
 
 <br>
